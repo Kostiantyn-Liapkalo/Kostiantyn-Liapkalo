@@ -1,4 +1,4 @@
-<p align="center" style="padding-bottom:0; margin-bottom:0;">
+<p align="left" style="padding-bottom:0; margin-bottom:0;">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Backend+Developer+Kostiantyn+Liapkalo&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 <!-- 
