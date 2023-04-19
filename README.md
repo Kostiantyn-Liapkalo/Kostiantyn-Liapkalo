@@ -1,9 +1,9 @@
 <p align="center" style="padding-bottom:0; margin-bottom:0;">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Backend+Developer&font=Fira%20Code&center=true&width=380&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Backend+Developer+Kostiantyn+Liapkalo&font=Fira%20Code&center=true&width=380&height=50">
 </p>
-
-<h1 align="center">Hi there! 👋</h1>
-<h1 align="center">I just like building</h1>
+<!-- 
+<h1 align="center">Hi there! 👋</h1> -->
+<h1 align="center">Fall seven times and stand up eight.</h1>
 
 ### 🛠 &nbsp;Languages and Tools :
 <p align="left"> 
