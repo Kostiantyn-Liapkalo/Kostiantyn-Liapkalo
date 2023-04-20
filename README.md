@@ -4,7 +4,7 @@
 
 <!-- <h1 align="center">Hi there! 👋</h1> -->
 
-### 🛠 &nbsp;Languages and Tools :
+🛠 &nbsp;Languages and Tools :
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
 <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="django" width="90" height="30"/> </a> 
@@ -24,6 +24,7 @@
 <a href="https://devdocs.magento.com" target="_blank" rel="noreferrer"> <img src="https://ru.wikipedia.org/wiki/Adobe#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Adobe_Corporate_logo.svg" alt="magento" width="30" height="30"/> </a>
 
 <a href="https://en.wikipedia.org/wiki/WordPress" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/WordPress#/media/File:WordPress_logo.svg" alt="WordPress" width="30" height="30"/> </a> -->
+
 
 
 
